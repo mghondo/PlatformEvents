@@ -1,0 +1,318 @@
+{
+    "fileVersion": 0,
+    "serverMaxRevisionCounter": 145,
+    "sourceMembers": {
+        "ApexClass__AccountSearchController": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 113,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountSearchControllerTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 114,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__accountSearch": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 115,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountSearch/accountSearch.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 116,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountSearch/accountSearch.css": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 117,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountSearch/accountSearch.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 118,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountSearch/accountSearch.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 119,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "memberType": "Profile",
+            "serverRevisionCounter": 127,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountHealthController": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__accountHealthDashboard": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 3,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountHealthDashboard/accountHealthDashboard.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 4,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountHealthDashboard/accountHealthDashboard.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 5,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountHealthDashboard/accountHealthDashboard.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 6,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "FlexiPage__Account_Record_Page": {
+            "memberType": "FlexiPage",
+            "serverRevisionCounter": 56,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomObject__Account": {
+            "memberType": "CustomObject",
+            "serverRevisionCounter": 57,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__LeadScorer": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 66,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__LeadScorerTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 67,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Flow__Lead_Scoring_Demo": {
+            "memberType": "Flow",
+            "serverRevisionCounter": 68,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountTriggerHandler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 77,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountTriggerHandlerTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 78,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__TriggerHandler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 79,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexTrigger__AccountTrigger": {
+            "memberType": "ApexTrigger",
+            "serverRevisionCounter": 80,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountDataCleanupBatch": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 89,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountDataCleanupBatchTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 90,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountDataCleanupScheduler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 91,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Billing_Latitude__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 96,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Billing_Longitude__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 97,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeAccountAction": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 98,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeQueueable": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 99,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeService": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 100,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeServiceTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 101,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__Nominatim": {
+            "memberType": "RemoteSiteSetting",
+            "serverRevisionCounter": 102,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__LeadApiResponse": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 106,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__LeadApiService": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 107,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__LeadApiServiceTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 108,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Alert__e.Account_Name__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 128,
+            "lastRetrievedFromServer": 128,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Alert__e.Amount__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 129,
+            "lastRetrievedFromServer": 129,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Alert__e.Close_Date__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 130,
+            "lastRetrievedFromServer": 130,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Alert__e.Opportunity_Id__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 131,
+            "lastRetrievedFromServer": 131,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Alert__e.Opportunity_Name__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 132,
+            "lastRetrievedFromServer": 132,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Alert__e.Owner_Name__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 133,
+            "lastRetrievedFromServer": 133,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Log__c.Account_Name__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 134,
+            "lastRetrievedFromServer": 134,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Log__c.Alerted_Date__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 135,
+            "lastRetrievedFromServer": 135,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Log__c.Amount__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 136,
+            "lastRetrievedFromServer": 136,
+            "isNameObsolete": false
+        },
+        "CustomField__Big_Deal_Log__c.Opportunity__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 137,
+            "lastRetrievedFromServer": 137,
+            "isNameObsolete": false
+        },
+        "CustomObject__Big_Deal_Log__c": {
+            "memberType": "CustomObject",
+            "serverRevisionCounter": 145,
+            "lastRetrievedFromServer": 145,
+            "isNameObsolete": false
+        },
+        "ApexClass__BigDealPlatformEventTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 139,
+            "lastRetrievedFromServer": 139,
+            "isNameObsolete": false
+        },
+        "ApexClass__BigDealPublisher": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 140,
+            "lastRetrievedFromServer": 140,
+            "isNameObsolete": false
+        },
+        "ApexClass__BigDealSubscriberHandler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 141,
+            "lastRetrievedFromServer": 141,
+            "isNameObsolete": false
+        },
+        "ApexTrigger__BigDealAlertTrigger": {
+            "memberType": "ApexTrigger",
+            "serverRevisionCounter": 142,
+            "lastRetrievedFromServer": 142,
+            "isNameObsolete": false
+        },
+        "ApexTrigger__OpportunityBigDealTrigger": {
+            "memberType": "ApexTrigger",
+            "serverRevisionCounter": 143,
+            "lastRetrievedFromServer": 143,
+            "isNameObsolete": false
+        },
+        "CustomObject__Big_Deal_Alert__e": {
+            "memberType": "CustomObject",
+            "serverRevisionCounter": 144,
+            "lastRetrievedFromServer": 144,
+            "isNameObsolete": false
+        }
+    }
+}
